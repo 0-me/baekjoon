@@ -1,0 +1,7 @@
+#최댓값, 위치
+#.index 함수
+
+l = list()
+for i in range(9):
+    l.append(int(input()))
+print(max(l),l.index(max(l))+1)
