@@ -1,6 +1,6 @@
 #python itertools 활용
-#itertools.permutations(chars, 2)  # 순열
-#c = itertools.combinations(chars, 2)  # 조합
+#itertools.permutations(  , 2) - 순열
+#itertools.combinations( , 2) - 조합
 
 from itertools import permutations
 
